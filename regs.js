@@ -3,8 +3,8 @@ const path = require('path');
 const parse = require('csv-parser');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
-const inputDir = 'regulations';
-const outputDir = 'new_regulations';
+const inputDir = 'legislativeaffairs';
+const outputDir = 'new_legislativeaffairs';
 const csvOutputPath = 'rename_tracking.csv';
 
 const csvWriter = createCsvWriter({
