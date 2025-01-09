@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Read the Excel file
-df = pd.read_excel('regulations.xlsx')
+df = pd.read_excel('legislativeaffairs.xlsx')
 
 # Convert the DataFrame to JSON
 json_data = df.to_json(orient='index')
