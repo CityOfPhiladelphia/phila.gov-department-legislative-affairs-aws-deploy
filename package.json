@@ -1,21 +1,21 @@
 {
-  "name": "phila.gov-records-regulations-aws-deploy",
+  "name": "phila.gov-department-legislative-affairs-aws-deploy",
   "version": "1.0.0",
-  "description": "Housing public regulations from the http://regulations.phila-records.com/ website",
+  "description": "legislative affairs docs for the mayors office",
   "main": "regs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CityOfPhiladelphia/phila.gov-records-regulations-aws-deploy.git"
+    "url": "git+https://github.com/CityOfPhiladelphia/phila.gov-department-legislative-affairs-aws-deploy.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CityOfPhiladelphia/phila.gov-records-regulations-aws-deploy/issues"
+    "url": "https://github.com/CityOfPhiladelphia/phila.gov-department-legislative-affairs-aws-deploy/issues"
   },
-  "homepage": "https://github.com/CityOfPhiladelphia/phila.gov-records-regulations-aws-deploy#readme",
+  "homepage": "https://github.com/CityOfPhiladelphia/phila.gov-department-legislative-affairs-aws-deploy#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
