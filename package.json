@@ -1,7 +1,7 @@
 {
-  "name": "phila.gov-records-regulations-aws-deploy",
+  "name": "phila.gov-department-legislative-affairs-aws-deploy",
   "version": "1.0.0",
-  "description": "Housing public regulations from the http://regulations.phila-records.com/ website",
+  "description": "legislative affairs docs for the mayors office",
   "main": "regs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
