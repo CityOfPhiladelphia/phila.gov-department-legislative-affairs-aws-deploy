@@ -1,4 +1,4 @@
-# records-legislativeaffairs
+# mayor-legislativeaffairs
 Documents for Legislative Affairs for the Mayor's Office
 
 The .json file values will be used to populate the rows for the table, which look like this:
