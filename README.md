@@ -11,13 +11,21 @@ The .json file values will be used to populate the rows for the table, which loo
 The json file itself hosts a series of objects in the following format (with example values):
 
 {
+
     "bill_number": "123456",
+    
     "title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
+    
     "prime_sponsor": "Mayor's Office",
+    
     "introduction_date": "12/18/2024",
+
     "committee": "No",
+    
     "fiscal_note_download": null,
+    
     "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
+    
 }
 
 Each value must be in quotes, and have a comma at the end of the line, except the last one. The same is true for the object itself in the curly brackets.
