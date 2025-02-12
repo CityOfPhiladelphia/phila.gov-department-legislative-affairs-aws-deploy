@@ -31,3 +31,5 @@ The json file itself hosts a series of objects in the following format (with exa
 Each value must be in quotes, and have a comma at the end of the line, except the last one. The same is true for the object itself in the curly brackets.
 
 To add a new row to the table with data, you 1) add a new object (as above) to the legislativeaffairs.json file in the /legislativeaffairs_json directory, and 2) add any fiscal note PDF files to the /legislativeaffairs directory.
+
+If a certain value is empty, then you write null, without quotes (see the fiscal_note_download field in the example).
