@@ -2,161 +2,34 @@
   {
     "bill_number": "240875",
     "bill_title": "Amending Chapter 19-2600 of The Philadelphia Code, entitled Business Income and Receipts Taxes, to reinstate and revise the Sustainable Business Tax Credit by increasing the total tax credit amount, by extending the tax year through which the tax credit is made available, and by increasing the number of businesses eligible to receive the tax credit; all under certain terms and conditions.",
-    "resolution_title": "",
-    "prime_sponsor": "Gauthier",
-    "introduction_date": "10/10/2024",
-    "committee": "Finance",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6891265&GUID=AAA2B08A-335F-4588-A68F-E2F9D03C2FB1&Options=ID|Text|&Search=240875",
+    "prime_sponsor": "Mayor's Office",
+    "introduction_date": "12/18/2024",
+    "committee": "Streets",
     "fiscal_note_download": "OLA-fiscal-note-240875-20250224.pdf",
-    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6891265&GUID=AAA2B08A-335F-4588-A68F-E2F9D03C2FB1&Options=ID|Text|&Search=240875"
+    "resolution_title": "Resolution of Civil Service Regulation 6.31: Credential Based Pay",
+    "resolution_number": "45423",
+    "resolution_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6891265&GUID=AAA2B08A-335F-4588-A68F-E2F9D03C2FB1&Options=ID|Text|&Search=240875",
+    "resolution_title_2": "R2 - Resolution of Civil Service Regulation 6.31: Credential Based Pay",
+    "resolution_number_2": "883432388",
+    "resolution_link_2": "https://phila.legistar.com/LegislationDetail.aspx?ID=6891265&GUID=AAA2B08A-335F-4588-A68F-E2F9D03C2FB1&Options=ID|Text|&Search=240875",
+    "resolution_title_3": "R3 - Resolution of Civil Service Regulation 6.31: Credential Based Pay",
+    "resolution_number_3": "88343388",
+    "resolution_link_3": "",
+    "resolution_title_4": "R4 - Resolution of Civil Service Regulation 6.31: Credential Based Pay",
+    "resolution_number_4": "44",
+    "resolution_link_4": ""
   },
   {
-    "bill_number": "123456",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "resolution_title": "Resolution of Civil Service Regulation 6.31: Credential Based Pay",
+    "bill_number": "240875",
+    "bill_title": "Amending Chapter 19-2600 of The Philadelphia Code, entitled Business Income and Receipts Taxes, to reinstate and revise the Sustainable Business Tax Credit by increasing the total tax credit amount, by extending the tax year through which the tax credit is made available, and by increasing the number of businesses eligible to receive the tax credit; all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6891265&GUID=AAA2B08A-335F-4588-A68F-E2F9D03C2FB1&Options=ID|Text|&Search=240875",
     "prime_sponsor": "Mayor's Office",
     "introduction_date": "12/18/2024",
     "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "22233",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
+    "fiscal_note_download": "OLA-fiscal-note-240875-20250224.pdf",
     "resolution_title": "Resolution of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf",
     "resolution_number": "8888",
     "resolution_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "4444455",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "634354",
-    "resolution_title": "Resolution of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "67658",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "resolution_title": "Resolution of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "234242",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "resolution_title": "Resolution of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "45756",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "1237",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "678560",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "9098765",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "23466",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "96437",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "99654",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "45789",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "7875",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
-  },
-  {
-    "bill_number": "45657",
-    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
-    "prime_sponsor": "Mayor's Office",
-    "introduction_date": "12/18/2024",
-    "committee": "Streets",
-    "fiscal_note_download": null,
-    "bill_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
   }
 ]
