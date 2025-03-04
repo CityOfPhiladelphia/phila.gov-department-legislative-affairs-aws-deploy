@@ -33,7 +33,7 @@
     "resolution_link": "_regulation-packet-chapter-2---205.2---signed.pdf"
   },
   {
-    "bill_number": "240660",
+    "bill_number": "240666",
     "bill_title": "Amending Chapter 9-1000 of The Philadelphia Code, entitled Trades, by adding requirements and establishing certain limits related to electrical contractors, all under certain terms and conditions.",
     "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6851294&GUID=E7911AB3-A5A6-43F3-980D-13E98F7FF52D&Options=ID|Text|&Search=240666",
     "prime_sponsor": "Driscoll for Council President Johnson",
@@ -114,18 +114,54 @@
     "resolution_link_4": ""
   },
   {
-    "bill_number": "",
-    "bill_title": "",
-    "bill_link": "",
-    "prime_sponsor": "",
-    "introduction_date": "",
-    "committee": "",
+    "bill_number": "240875",
+    "bill_title": "Amending Chapter 19-2600 of The Philadelphia Code, entitled 'Business Income and Receipts Taxes,' to reinstate and revise the Sustainable Business Tax Credit by increasing the total tax credit amount, by extending the tax year through which the tax credit is made available, and by increasing the number of businesses eligible to receive the tax credit; all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6891265&GUID=AAA2B08A-335F-4588-A68F-E2F9D03C2FB1&Options=ID|Text|&Search=240875 ",
+    "prime_sponsor": "Gauthier",
+    "introduction_date": "10/10/2024",
+    "committee": "Finance",
     "fiscal_note_download": "",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
   },
   {
+    "bill_number": "240823",
+    "bill_title": "Amending Chapter 9-800 ('Landlord and Tenant') to add prohibitions and penalties related to anti-competitive rental practices, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6876360&GUID=85DC7418-4A44-4164-9570-C996CBDB3366&Options=ID|Text|&Search=240823",
+    "prime_sponsor": "O'Rourke",
+    "introduction_date": "9/26/2024",
+    "committee": "Housing, Neighborhood Development and The Homeless",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },  
+  {
+    "bill_number": "241056",
+    "bill_title": "Providing for the submission to the qualified electors of the City of Philadelphia of the proposal set forth in a Resolution approved by Council proposing an amendment to the Philadelphia Home Rule Charter to eliminate the requirement that City officers and employees resign from their City office or employment before becoming candidates for public office; and authorizing the appropriate officers to publish notice and to make arrangements for the special election.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7022137&GUID=96FF2358-09E7-4398-9FE9-1364B11CAB44&Options=ID|Text|&Search=241056",
+    "prime_sponsor": "Thomas",
+    "introduction_date": "11/14/2024",
+    "committee": "Law and Government",
+    "fiscal_note_download": "",
+    "resolution_title": "Proposing an amendment to the Philadelphia Home Rule Charter to eliminate the requirement that City officers and employees resign from their City office or employment before becoming candidates for public office; and providing for the submission of the amendment of the electors of Philadelphia.",
+    "resolution_number": "241070",
+    "resolution_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7022811&GUID=5F6DE118-BBB7-4427-8993-399335143AE9&Options=ID|Text|&Search=241070"
+  },
+    {
+    "bill_number": "240931",
+    "bill_title": "Authorizing and directing the changing of the name of Taney Street to LeCount Street, from West Toronto Street to West Somerset Street; from Ridge Avenue to Cecil B. Moore Avenue; from Master Street to Aspen Street; from Pine Street to Bainbridge Street; from Catharine Street to Christian Street; from Dickinson Street to Morris Street; and authorizing and directing the changing of the name of Taney Terrace, from Point Breeze Avenue to Jackson Street, to LeCount Terrace, all under certain terms and conditions",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6897878&GUID=A551E41E-9E64-4031-A49B-A6AB95E23EBE&Options=ID|Text|&Search=240931",
+    "prime_sponsor": "Jones for Council President Jones",
+    "introduction_date": "10/17/2024",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+    {
     "bill_number": "",
     "bill_title": "",
     "bill_link": "",
