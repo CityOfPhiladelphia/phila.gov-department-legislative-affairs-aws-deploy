@@ -6,7 +6,7 @@
     "prime_sponsor": "Driscoll for Council President Johnson",
     "introduction_date": "9/5/2024",
     "committee": "Licenses and Inspections",
-    "fiscal_note_download": "Test-LSK.pdf",
+    "fiscal_note_download": "ola-fiscal-note-240666-20250306.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
@@ -18,7 +18,7 @@
     "prime_sponsor": "Bass",
     "introduction_date": "9/5/2024",
     "committee": "Parks, Recreation and Cultural Affairs",
-    "fiscal_note_download": "OLA-fiscal-note-240671-20250306.pdf",
+    "fiscal_note_download": "ola-fiscal-note-240671-20250306.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
@@ -66,7 +66,7 @@
     "prime_sponsor": "Thomas",
     "introduction_date": "9/26/2024",
     "committee": "Law and Government",
-    "fiscal_note_download": "",
+    "fiscal_note_download": "ola-fiscal-note-240817-240834-A-250018-20250307.pdf",
     "resolution_title": "Proposing an amendment to the Philadelphia Home Rule Charter to provide for the creation of the Philadelphia Prison Community Oversight Board and the Office of Prison Oversight and providing for the submission of the amendment to the electors of Philadelphia.",
     "resolution_number": "240834-A",
     "resolution_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6876638&GUID=F2C83C03-FD28-4DE7-BBC1-E204BC279712&Options=ID|Text|&Search=240834",
@@ -87,7 +87,7 @@
     "prime_sponsor": "Gauthier",
     "introduction_date": "10/10/2024",
     "committee": "Finance",
-    "fiscal_note_download": "OLA-fiscal-note-240875-20250306.pdf",
+    "fiscal_note_download": "ola-fiscal-note-240875-20250306.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
@@ -127,7 +127,103 @@
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
-  }
-
+  },
+    {
+    "bill_number": "240813",
+    "bill_title": "Amending Section 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane on Woodland Avenue from Chester Avenue to South 42nd Street and make associated changes to parking regulations within the same limits, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=6876333&GUID=E6AE41FC-F63D-4F01-B803-0B376ADBC3F8&Options=ID|Text|&Search=240813",
+    "prime_sponsor": "Gauthier",
+    "introduction_date": "9/26/2024",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "ola-fiscal-note-240813-20250307.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+{
+    "bill_number": "250005",
+    "bill_title": "Amending Chapter 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane on North 22nd Street, from Spring Garden Street to Green Street and remove a travel lane on North 22nd Street within the same limits, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7104692&GUID=C7601073-74E5-4011-B6AB-4CF3E6F54A1F&Options=ID|Text|&Search=250005",
+    "prime_sponsor": "Young",
+    "introduction_date": "01/23/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+  {
+    "bill_number": "250006",
+    "bill_title": "Amending Chapter 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane on N. 13th Street, from Cecil B. Moore Avenue to Diamond Street, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7104693&GUID=F69BEB82-BC39-4DD3-91A9-5D07DD35C8A8&Options=ID|Text|&Search=250006",
+    "prime_sponsor": "Young",
+    "introduction_date": "01/23/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+  {
+    "bill_number": "250007",
+    "bill_title": "Amending Chapter 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane on N. 23rd Street between Race Street and Market Street, under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7104694&GUID=CF080591-1CC8-4BFB-9D19-7F9460ECB7F3&Options=ID|Text|&Search=250007",
+    "prime_sponsor": "Young",
+    "introduction_date": "01/23/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+    {
+    "bill_number": "250022",
+    "bill_title": "Also naming N. 10th Street between Oxford Street and Master Street as 'Paula Peebles Way.'",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7104751&GUID=A2E82A94-C6BD-41CD-A807-EF126E84C281&Options=ID|Text|&Search=250022",
+    "prime_sponsor": "Young",
+    "introduction_date": "01/23/2025",
+    "committee": "Not applicable",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+    {
+    "bill_number": "250030",
+    "bill_title": "Also naming Market Street from 7th to 8th as Emma Chappell Way, in honor of the trailblazing work she did to establish the City's first bank operated by a Black woman.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7104769&GUID=0B8A7CBF-FF9E-4B3E-8893-EB7E1B066FF0&Options=ID|Text|&Search=250030",
+    "prime_sponsor": "Squilla",
+    "introduction_date": "01/23/2025",
+    "committee": "Not applicable",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  }, 
+    {
+    "bill_number": "250163",
+    "bill_title": "Also naming the 2900 Block of Dauphin Street as 'James Blocker Way.'",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7158526&GUID=A290516D-9839-496E-9196-0DBAF7DD226A&Options=ID|Text|&Search=250163",
+    "prime_sponsor": "Young",
+    "introduction_date": "02/27/2025",
+    "committee": "Not applicable",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  }, 
+    {
+    "bill_number": "250157",
+    "bill_title": "Renaming the 2000 block of N 59th Street 'Will Smith Way' to honor and celebrate the impactful career and legacy of Will Smith, a West Philadelphia native.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7158493&GUID=1C01F2F1-E700-4E24-B043-117905D70088&Options=ID|Text|&Search=250157",
+    "prime_sponsor": "Jones",
+    "introduction_date": "02/27/2025",
+    "committee": "Not applicable",
+    "fiscal_note_download": "",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  } 
+  
   
 ]
