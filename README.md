@@ -14,7 +14,7 @@ The json file itself hosts a series of objects in the following format (with exa
 
     "bill_number": "123456",
     
-    "title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
+    "bill_title": "Amendments of Civil Service Regulation 6.31: Credential Based Pay",
     
     "prime_sponsor": "Mayor's Office",
     
@@ -34,6 +34,7 @@ To add a new row to the table with data, you 1) add a new object (as above) to t
 
 If a certain value is empty, then you write null, without quotes (see the fiscal_note_download field in the example).
 
+
 **Notes and best practices for working with the JSON file:**
 
 1.) As long as the entry is formatted correctly, the order does not matter.
@@ -45,6 +46,7 @@ If a certain value is empty, then you write null, without quotes (see the fiscal
 4.) Use a JSON linter or validator to ensure your data is formatted correctly.
 
 5.) The PDF file names need to be lower case to work correctly.
+
 
 **For the Fiscal Note uploads:**
 
