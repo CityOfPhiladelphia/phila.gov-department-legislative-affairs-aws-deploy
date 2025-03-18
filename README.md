@@ -33,3 +33,23 @@ Each value must be in quotes, and have a comma at the end of the line, except th
 To add a new row to the table with data, you 1) add a new object (as above) to the legislativeaffairs.json file in the /legislativeaffairs_json directory, and 2) add any fiscal note PDF files to the /legislativeaffairs directory.
 
 If a certain value is empty, then you write null, without quotes (see the fiscal_note_download field in the example).
+
+**Notes and best practices for working with the JSON file:**
+
+1.) As long as the entry is formatted correctly, the order does not matter.
+
+2.) The descriptions in the table are shortened to 200 characters on the webpage.
+
+3.) If quotes are required in an item's description, single quotes should be used within the double quotes of the JSON entries.
+
+4.) Use a JSON linter or validator to ensure your data is formatted correctly.
+
+5.) The PDF file names need to be lower case to work correctly.
+
+**For the Fiscal Note uploads:**
+
+1.) Upload the file to the Legislative affairs PDF folder.
+
+2.) Make sure there is a reference in your JSON file to the pdf file you added.
+
+3.) Make sure the PDF the file names are lower case so they to work correctly.
