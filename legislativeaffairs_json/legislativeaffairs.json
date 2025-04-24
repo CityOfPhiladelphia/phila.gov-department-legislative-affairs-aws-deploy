@@ -247,6 +247,30 @@
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
+  },
+    {
+    "bill_number": "250101",
+    "bill_title": "Amending Chapter 9-800 of The Philadelphia Code, entitled 'Landlord and Tenant,' to place limits on late fees that may be charged to residential tenants, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7137948&GUID=2A32DB49-F59D-4C32-8EDF-BF2F28A8F711&Options=ID%7cText%7c&Search=250101",
+    "prime_sponsor": "Young",
+    "introduction_date": "02/13/2025",
+    "committee": "Law and Government",
+    "fiscal_note_download": "ola-fiscal-note-250101-20250424.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+      {
+    "bill_number": "250267",
+    "bill_title": "Amending Section 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane and removal of a travel lane on 47th Street, under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7283479&GUID=44D300D6-84F2-4FC8-850F-AA3F84DE399C&Options=ID|Text|&Search=250267",
+    "prime_sponsor": "Gauthier",
+    "introduction_date": "03/27/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "ola-fiscal-note-250267-20250424.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
   }
   
 ]
