@@ -36,9 +36,7 @@ If a certain value is empty, then you write null, without quotes (see the fiscal
 
 *************
 
-When you are ready to move the files from Staging into Main navigate to the repository, you will see a sentence at the top of the screen "This is X commits behind staging" click that blue link.
-
-1.) It will take you to a screen titled "Comparing Changes" click the “Compare & Pull Request" button,
+1.) When you are ready to move the files from Staging into Main, navigate to the repository. You will see a sentence at the top of the screen "This is X commits behind staging" click that blue link. It will take you to a screen titled "Comparing Changes" click the “Compare & Pull Request" button,
 
 2.) Select the base: “Main” and compare: “Staging” options
     a.) It will let you know whether you are able to merge, or it will tell you if there are issues that need to be resolved.
