@@ -40,15 +40,23 @@ When you are ready to move the files from Staging into Main navigate to the repo
 
 1.) Select the base: “Main” and compare: “Staging” options
     a.) It will let you know whether you are able to merge, or it will tell you if there are issues that need to be resolved.
+    
 2.) Select “Create Pull Request” button.
+
 3.) Give the pull request a Title and a Description.
     a.) Provide a short description that will help someone else understand what changes were made.
+    
 4.) Click the “Create Pull Request” button.
+
 5.) Confirm all the checks have been passed and that there are no conflicts with the base branch.
+
 6.) Click the “Merge Pull Request” button.
+
 7.) You will be prompted for a “Commit Message”
     a.) It will give you a starter message which you can use or add your own.
-8.) Once added click on the “Confirm Merge” button
+    
+8.) Once added click on the “Confirm Merge” button.
+
 9.) You are done! Changes should be visible within a few minutes; you may need to refresh your browser to see the changes. 
 
 
