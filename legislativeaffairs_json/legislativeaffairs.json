@@ -492,5 +492,29 @@
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
+  },
+   {
+  "bill_number": "250489",
+    "bill_title": "Amending Section 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane on South 59th Street from Market Street to Baltimore Avenue, and the removal of a travel lane within the same limits, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7378068&GUID=D30E816C-E0C7-4B37-B17B-09FF3F5EB712&Options=ID|Text|&Search=250489",
+    "prime_sponsor": "Gauthier",
+    "introduction_date": "05/08/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "ola-fiscal-note-250489-20250707.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+    {
+  "bill_number": "250490",
+    "bill_title": "Amending Section 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane on Port Royal Avenue from Ridge Avenue to Henry Avenue, and removal of a parking lane within the same limits, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7378069&GUID=7F6B8092-4FB4-4EFC-8A48-2DD5314076C9&Options=ID%7cText%7c&Search=250490",
+    "prime_sponsor": "Gauthier",
+    "introduction_date": "05/08/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "ola-fiscal-note-250490-20250707.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
   }
 ]
