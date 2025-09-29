@@ -561,5 +561,29 @@
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
+  },
+   {
+    "bill_number": "241064",
+    "bill_title": "Amending Title 14 of The Philadelphia Code, entitled 'Zoning and Planning' by revising provisions for electric vehicle parking and electrical supply requirements and making technical changes, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7022184&GUID=785A302F-122E-4B1A-9212-8103E4850616&Options=ID|Text|&Search=241064",
+    "prime_sponsor": "Ahmad",
+    "introduction_date": "11/14/2024",
+    "committee": "Rules",
+    "fiscal_note_download": "ola-fiscal-note-241064-20250929.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+   {
+    "bill_number": "250649",
+    "bill_title": "Amending Section 12-701 of The Philadelphia Code, entitled 'Designation of Bicycle Lanes,' to authorize a bicycle lane and removal of a travel lane around City Hall, under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7436536&GUID=7DBBE3CB-1FFF-4FFA-931C-0A5D77A8AAEA&Options=ID|Text|&Search=250649",
+    "prime_sponsor": "Young",
+    "introduction_date": "6/12/2025",
+    "committee": "Streets and Services",
+    "fiscal_note_download": "ola-fiscal-note-250649-20250925.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
   }
 ]
