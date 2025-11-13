@@ -732,7 +732,7 @@
  },
    {
     "bill_number": "250818",
-    "bill_title": "Also naming the 1200 block of Crease Street as ''Bonn' Bataan Way'.",
+    "bill_title": "Also naming the 1200 block of Crease Street as 'Bonn' Bataan Way'.",
     "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7682646&GUID=9C08395E-34DF-461E-9466-F25F168F5D06&Options=ID|Text|&Search=250818",
     "prime_sponsor": "Young",
     "introduction_date": "9/25/2025",
@@ -810,6 +810,18 @@
     "introduction_date": "10/16/2025",
     "committee": "Commerce and Economic Development",
     "fiscal_note_download": "ola-fiscal-note-250888-20251105.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+  },
+     {
+    "bill_number": "250769",
+    "bill_title": "Amending Title 20 of The Philadelphia Code, entitled 'Officers and Employees,' by changing the compensation of members of the Zoning Board of Adjustment, all under certain terms and conditions.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7664637&GUID=AEE72034-C1BD-4BF9-9D3D-FBC57049D2D8&Options=ID|Text|&Search=250769",
+    "prime_sponsor": "Gauthier for Council President Johnson",
+    "introduction_date": "09/18/2025",
+    "committee": "Finance",
+    "fiscal_note_download": "ola-fiscal-note-250769-11132025.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
