@@ -18,7 +18,7 @@
     "prime_sponsor": "Bass",
     "introduction_date": "9/5/2024",
     "committee": "Parks, Recreation and Cultural Affairs",
-    "fiscal_note_download": "ola-fiscal-note-240671-20250424.pdf",
+    "fiscal_note_download": "ola-fiscal-note-250837-250878-20260206.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
@@ -957,5 +957,26 @@
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
-      }
+      },
+   {
+    "bill_number": "250837",
+    "bill_title": "Providing for the submission to the qualified electors of the City of Philadelphia of an amendment to The Philadelphia Home Rule Charter to provide for perpetual City ownership and operation of the City's water supply and sewage systems and facilities; prescribing the form of ballot question to be voted on; and, authorizing the appropriate officers to publish notice and to make arrangements for the special election.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7697594&GUID=4CB2A51D-DF5F-4A67-99DD-BD74C5D75EFB&Options=ID|Text|&Search=250837",
+    "prime_sponsor": "O'Rourke",
+    "introduction_date": "10/09/2025",
+    "committee": "Not applicable",
+    "fiscal_note_download": "ola-fiscal-note-250837-250878-20260206.pdf",
+    "resolution_title": "Proposing an amendment to the Philadelphia Home Rule Charter providing for perpetual City ownership and operation of the City's water supply and sewage systems and facilities; and providing for the submission of the proposed amendment to the electors of Philadelphia.",
+    "resolution_number": "250878",
+    "resolution_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=7698648&GUID=96095098-185C-4D8A-96E4-B9ABD02169C2&Options=ID|Text|&Search=250878",
+    "resolution_title_2": "",
+    "resolution_number_2": "",
+    "resolution_link_2": "",
+    "resolution_title_3": "",
+    "resolution_number_3": "",
+    "resolution_link_3": "",
+    "resolution_title_4": "",
+    "resolution_number_4": "",
+    "resolution_link_4": ""
+  }
 ]
