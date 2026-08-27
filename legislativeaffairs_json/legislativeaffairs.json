@@ -1376,7 +1376,7 @@
     "prime_sponsor": "Squilla",
     "introduction_date": "05/28/2026",
     "committee": "Public Property and Public Works",
-    "fiscal_note_download": "ola-fiscal-note-260567-20260824.pdf",
+    "fiscal_note_download": "ola-fiscal-note-260567-20260826.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
@@ -1388,9 +1388,70 @@
     "prime_sponsor": "Phillips",
     "introduction_date": "06/11/2026",
     "committee": "Public Property and Public Works",
-    "fiscal_note_download": "ola-fiscal-note-260638-20260824.pdf",
+    "fiscal_note_download": "ola-fiscal-note-260638-20260826.pdf",
     "resolution_title": "",
     "resolution_number": "",
     "resolution_link": ""
-   }
+    },
+  {                     
+    "bill_number": "260625",
+    "bill_title": "Also naming the 1400 Block of Green Street as 'Coach Ken Hamilton Way,' in honor of Kenneth 'Ken' Hamilton, affectionately known as 'Coach Ham,' for his extraordinary record of leadership, mentorship, and service to generations of young people in Philadelphia.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=8059630&GUID=BD0AEF25-7311-40EE-9BDA-3A8D2CC7D963&Options=ID|Text|&Search=260625",
+    "prime_sponsor": "Young",
+    "introduction_date": "06/04/2026",
+    "committee": "Not applicable",
+    "fiscal_note_download": "ola-fiscal-note-260625-20260824.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+    },
+   {                     
+    "bill_number": "260626",
+    "bill_title": "Also naming the 2900 Block of Ogden Street as 'Councilman Bill Greenlee Way,' in honor of former Philadelphia City Councilmember William K. 'Bill' Greenlee and in recognition of his decades of dedicated service to the people and neighborhoods of Philadelphia.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=8059631&GUID=DDC7B2B8-CBC5-4F56-9476-2DF446C6528C&Options=ID|Text|&Search=260626",
+    "prime_sponsor": "Young",
+    "introduction_date": "06/04/2026",
+    "committee": "Not applicable",
+    "fiscal_note_download": "ola-fiscal-note-260626-20260824.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+    },
+  {                     
+    "bill_number": "260655",
+    "bill_title": "Also naming Lombard Street between 6th and 7th Streets as 'Bishop Richard Allen Way' to honor the life and legacy of Bishop Richard Allen, founder of (Mother) Bethel African Methodist Episcopal Church and the African Methodist Episcopal Church denomination.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=8068398&GUID=2A5CDE62-4E12-441B-B355-F42805DD8969&Options=ID|Text|&Search=260655",
+    "prime_sponsor": "Squilla",
+    "introduction_date": "06/11/2026",
+    "committee": "Not applicable",
+    "fiscal_note_download": "ola-fiscal-note-260655-20260824.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+    },
+   {                     
+    "bill_number": "260645",
+    "bill_title": "Honoring Police Officer Joe Young by renaming the 6400 Block of Woodland Avenue to 'Officer Joe Young Way' in recognition of his service to the 12th District and protection of the Southwest Philadelphia community.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=8068349&GUID=4745EFA0-FA81-4DA8-B092-5F0167E7A0AC&Options=ID|Text|&Search=260645",
+    "prime_sponsor": "Gilmore Richardson for Council President Johnson",
+    "introduction_date": "06/11/2026",
+    "committee": "Not applicable",
+    "fiscal_note_download": "ola-fiscal-note-260645-20260824.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+    },
+  {                     
+    "bill_number": "260613",
+    "bill_title": "Also naming the 3600 Block of Market Street as 'Walt Palmer-Black Bottom Way' to honor Dr. Walter Palmer and his services and contributions to the Black Bottom and the City of Philadelphia.",
+    "bill_link": "https://phila.legistar.com/LegislationDetail.aspx?ID=8059560&GUID=9968FDBB-8CD3-4E4A-A904-B1912C3DD810&Options=ID|Text|&Search=260613",
+    "prime_sponsor": "Gauthier",
+    "introduction_date": "06/04/2026",
+    "committee": "Not applicable",
+    "fiscal_note_download": "ola-fiscal-note-260613-20260824.pdf",
+    "resolution_title": "",
+    "resolution_number": "",
+    "resolution_link": ""
+   } 
+  
 ]
